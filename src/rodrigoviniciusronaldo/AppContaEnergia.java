@@ -1,8 +1,8 @@
 /*
-Rodrigo Celebrone - 20428584
-Ronaldo dos Santos Pereira - 20432398
-Vinicius Andrade - 20470284
- */
+* Rodrigo Celebrone - 20428584
+* Ronaldo dos Santos Pereira - 20432398
+* Vinicius Andrade - 20470284
+*/
 
 package rodrigoviniciusronaldo;
 
